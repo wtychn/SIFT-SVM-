@@ -1,5 +1,7 @@
 # SIFT-SVM-classification
 毕设程序，提取SIFT特征，使用SVM分类器进行服装分类
+
+Python3.7.2 with opencv-contrib-python3.4.2.16、opencv-python4.1.0.25
 # 使用说明：
 1.根据自身情况更改类别和每一类训练集、测试集图片数量
 
